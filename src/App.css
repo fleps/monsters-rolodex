@@ -8,12 +8,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(311deg, rgb(120, 7, 143), rgb(255, 104, 29));
+  background: linear-gradient(311deg, rgb(109, 5, 129), rgb(255, 155, 4));
   text-align: center;
 }
 
 h1 {
-  color: #63044e;
+  color: #ffffff;
+  text-shadow: 5px 5px 10px #0000007e;
   margin: 0 0 10px;
   font-size: 80px;
 }

@@ -1,7 +1,7 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #1e072c;
+  background-color: #1e072c80;
   border-radius: 15px;
   padding: 25px;
   cursor: pointer;
@@ -9,8 +9,9 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
-  box-shadow: 5px 5px 20px #00000086;
+  box-shadow: 8px 8px 10px #00000059;
   color: #ffee07;
+  backdrop-filter: blur(16px);
 }
 
 h2 {
