@@ -10,6 +10,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(311deg, rgb(109, 5, 129), rgb(255, 155, 4));
   text-align: center;
+  color: #FFF;
 }
 
 h1 {
